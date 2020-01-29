@@ -41,4 +41,4 @@ Enjoy
 
 
 
-Start reading [here](./Notes/00-Redux_Principles.md)
+Start reading [here](./Notes/00-redux_principles.md)
