@@ -1,7 +1,7 @@
 {
-  "name": "redux_notes_dan_adramov",
+  "name": "redux-design-patterns",
   "version": "1.0.0",
-  "description": "Class Notes from a redux series by Dan Abramov",
+  "description": "A collection of notes about Redux design patterns",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
