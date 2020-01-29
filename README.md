@@ -10,4 +10,4 @@ If you find these helpful, please keep reading. Also, if you'd like to contribut
 
 Enjoy
 
-Start reading [here](./Notes/00 - Redux_Principles.md)
+Start reading [here](./Notes/00-Redux_Principles.md)
