@@ -32,3 +32,6 @@ function squareAll(items){
     }
 }
 ```
+
+## Next Steps
+- Move on to [reducer functions](./02-reducer-function.md)

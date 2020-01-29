@@ -26,3 +26,6 @@ const createStore = (render) => {
 }
 ```
 The returned value of the state, dispatch fn and subscribe fn is what we call the store. 
+
+## Next Steps
+- Move on to creating a simple [counter example](./05-counter-example.md)

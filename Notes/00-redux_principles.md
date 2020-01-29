@@ -9,4 +9,5 @@
 - Any changes need to be made via a dispatched action. 
 - And action is a plain object describing the action/change to the state.
 
-
+## Next Steps
+- Move on to [pure functions](./01-pure-functions.md)

@@ -142,3 +142,6 @@ testToggleToDo();
 testRemoveToDo();
 console.log('tests all pass!')
 ```
+
+## Next Steps
+- Move on to [reducer composition](./10-reducer-composition.md)

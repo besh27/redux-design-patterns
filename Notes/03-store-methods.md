@@ -77,3 +77,5 @@ document.addEventListener('click', () => {
 });
 ```
 
+## Next Steps
+- Move on to [createStore](./03-store-methods.md)

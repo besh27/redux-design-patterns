@@ -72,3 +72,5 @@ const render = () => {
   );
 };
 ```
+## Next Steps
+- Move on to how to [avoid mutations](./06-redux-and-avoiding-mutations.md)

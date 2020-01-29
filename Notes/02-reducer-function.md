@@ -74,3 +74,6 @@ expect(
 // the code won't reach this console if these tests don't pass. 
 console.log("Tests Passed!")
 ```
+
+## Next Steps
+- Move on to [store methods](./03-store-methods.md)

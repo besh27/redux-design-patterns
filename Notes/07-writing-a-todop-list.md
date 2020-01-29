@@ -43,3 +43,6 @@ testAddTodo();
 console.log('All tests passed.')
 console.log(state);
 ```
+
+## Next Steps
+- Move on to how to create a todolist toggle [here](./08-wrting-a-todo-list-(toggling).md) & [here](./09-toggling-a-todolist.md)

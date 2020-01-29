@@ -198,3 +198,6 @@ testIncrementCounter();
 console.log('All tests passed.')
 
 ```
+
+## Next Steps
+- Move on to how to create a [todo list](./07-writing-a-todop-list.md)
