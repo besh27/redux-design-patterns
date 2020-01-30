@@ -77,3 +77,6 @@ const todos = (state = [], action) => {
 };
 
 ```
+
+## Next Steps
+- Move on to [combineReducers](./11-combinereducers.md)

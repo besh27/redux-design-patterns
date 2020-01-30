@@ -49,3 +49,6 @@ const combineReducers = (reducers) => {
     };
 };
 ```
+
+## Next Steps
+- Move on to [React Redux Todo List](./12-react-redux-todo-list.md)

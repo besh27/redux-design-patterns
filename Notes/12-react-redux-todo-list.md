@@ -223,3 +223,5 @@ const render = () => {
 store.subscribe(render);
 render();
 ```
+## Next Steps
+- Move on to [React Redux Todo List Filtering](./13.react-redux-todo-filter.md)
