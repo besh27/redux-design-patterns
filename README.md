@@ -1,19 +1,16 @@
-<div align="center">
-    <p>
-        <a href="https://https://redux.js.org/">
-            <img alt="graphql" src="static/redux_logo.png" />
-        </a>
-    </p>
+<p align="center">
+  <a href="https://redux.js.org">
+    <img alt="redux-design-patterns" src="static/redux_logo.png" />
+  </a>
+</p>
 
-    <h1>
-        redux-design-patterns
-    </h1>
-    <p>
-        A collection of notes about Redux design patterns
-    </p>
-</div>
+<h1 align="center">
+  Redux Design Patterns
+</h1>
 
-
+<p align="center">
+    A collection of notes about Redux design patterns
+</p>
 
 ## What you need
 Many of the code snippets are intended to be used in [JSBin](https://jsbin.com/), [codepen](https://codepen.io/), [Repl.it](https://Repl.it), [JSFiddle](https://jsfiddle.net/), etc...
