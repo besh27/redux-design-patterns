@@ -1,16 +1,16 @@
 <div align="center">
-<p>
-<a href="https://https://redux.js.org/">
-    <img alt="graphql" src="static/redux_logo.png" />
-</a>
-</p>
+    <p>
+        <a href="https://https://redux.js.org/">
+            <img alt="graphql" src="static/redux_logo.png" />
+        </a>
+    </p>
 
-<h1>
-    redux-design-patterns
-</h1>
-<p>
-    A collection of notes about Redux design patterns
-</p>
+    <h1>
+        redux-design-patterns
+    </h1>
+    <p>
+        A collection of notes about Redux design patterns
+    </p>
 </div>
 
 
